@@ -30,9 +30,11 @@ body {
   justify-content: space-between;
   align-items: center;
   width: 32%;
-  border: 1px solid #8e79c7;
+  background-color: #bcaee4;
+  border: 1px solid #bcaee4;
   padding: 10px 20px 10px 20px;
   font-weight: 600;
+  color: white;
 }
 
 .accordion-bottom {
@@ -46,8 +48,7 @@ body {
   width: 32%;
   padding: 10px 20px 10px 20px;
   font-size: large;
-  background-color: #bcaee4;
-  border: 1px solid #bcaee4;
+  border: 1px solid #8e79c7;
 }
 
 #expand {
